@@ -1,0 +1,48 @@
+.form{
+    width:80%;
+}
+h3{
+    margin: 2rem;
+}
+.sucess{
+    color:green;
+    width:50%;
+    height:1.5rem;
+    font-size:20px;
+}
+.error{
+    font-size:20px;
+    width:50%;
+    height:1.5rem;
+    color: red;
+}
+.form-group{
+    margin:1rem;
+}
+label{
+    margin:1rem;
+    display: block;
+}
+.form-group input{
+    width:50%;
+    border-radius: 15px;
+    height:1.5rem;
+}
+.form-group ::placeholder{
+    color:gray;
+}
+.message{
+    height:4rem !important;
+}
+button{
+    cursor:pointer;
+    background-color: red;
+    color:white;
+    height:3rem;
+    outline:none;
+    border:none;
+    border-radius: 16px;
+}
+button:hover{
+    background-color: brown;
+}
