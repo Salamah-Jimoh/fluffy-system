@@ -78,7 +78,7 @@ e.target.value = '';
         <div className="form-group">
         <label htmlFor="subject">Subject</label>
         <input type="text"
-        placeholder='Enter your subject'
+        placeholder='Enter your Subject'
          name="subject"
          value={subject}
          onChange={e=>
